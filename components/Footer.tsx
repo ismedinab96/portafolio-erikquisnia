@@ -104,7 +104,7 @@ export default function Footer() {
               </h3>
             )}
             <p className="text-gray-400 text-base leading-relaxed">
-              © {year}. Todos los derechos reservados.
+              © {year}. Todos los derechos reservados
             </p>
           </div>
           {/* Col 2: enlaces internos — centrado en móvil */}
@@ -174,10 +174,10 @@ export default function Footer() {
         <div className="mt-12 border-t border-white/10 pt-8">
           <div className="flex flex-col lg:items-center items-start  justify-between gap-4">
             <p className="text-sm sm:text-base text-gray-400">
-              Construido con Next.js, TypeScript y TailwindCSS.
+              Tecnologias utilizadas para la construccion de la web: Next.js, TypeScript y TailwindCSS.
             </p>
             <p className="text-sm sm:text-base text-gray-400">
-              Realizado por Erik Quisnia            
+              Adaptado y Modificado por: Iver Samuel Medina Balboa            
             </p>
           </div>
         </div>
